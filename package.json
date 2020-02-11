@@ -1,0 +1,19 @@
+{
+  "name": "external-markdown-consumer",
+  "version": "1.0.0",
+  "description": "this is a test, please ignore",
+  "main": "next.config.js",
+  "scripts": {
+    "start": "next dev"
+  },
+  "author": "Jeff Escalante",
+  "license": "ISC",
+  "dependencies": {
+    "gray-matter": "^4.0.2",
+    "isomorphic-unfetch": "^3.0.0",
+    "marked": "^0.8.0",
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
